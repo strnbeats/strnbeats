@@ -1,1 +1,1 @@
-![Top Langs](https://vercel.app)
+<img src="https://vercel.app" alt="Top Langs" />
