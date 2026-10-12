@@ -1,1 +1,1 @@
-<img src="https://vercel.app" alt="Top Langs" />
+![My Language Commits Stats](./github-profile-language-analytics.svg)
